@@ -1,0 +1,13 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kaalaththy <kaalaththy@divum.in>",
+  "license": "Divum",
+  "homepage": "https://github.com/kaalaththy21/validator",
+  "bugs": "https://github.com/kaalaththy21/validator/issues",
+  "repository": {
+    "url": "https://github.com/kaalaththy21/validator",
+    "type": "git"
+  }
+}
